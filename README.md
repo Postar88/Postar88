@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Postar88
 - 👀 I’m interested in software developments
-- 🌱 I’m currently learning Information technology and majoring in hardware and software delopment.
+- 🌱 I’m currently learning Information technology and majoring in software development.
 - 💞️ I’m looking to collaborate on online projects and any other fun stuff that includes coding and information sharing.
-- 📫 How to reach me: whatsapp me @ 0715433769
+- 📫 How to reach me:
 - 😄 Pronouns: He
 - ⚡ Fun fact: None( funny huh)
 
